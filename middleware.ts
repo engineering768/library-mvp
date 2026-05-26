@@ -34,6 +34,11 @@ export async function middleware(request: NextRequest) {
   const isAuthRoute = pathname.startsWith("/auth");
   const isApiRoute = pathname.startsWith("/api");
 
+  if (pathname === "/") {
+    const target = user ? "/admin/dashboard" : "/auth/login";
+    return NextResponse.redirect(new URL(target, request.url));
+  }
+
   if (isAdminRoute && !user) {
     const loginUrl = new URL("/auth/login", request.url);
     loginUrl.searchParams.set("redirect", pathname);
@@ -60,5 +65,5 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/admin/:path*", "/auth/:path*", "/api/:path*"],
+  matcher: ["/", "/admin", "/admin/:path*", "/auth/:path*", "/api/:path*"],
 };
