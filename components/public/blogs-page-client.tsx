@@ -74,8 +74,8 @@ export function BlogsPageClient() {
     <div className="space-y-8">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Blogs</h1>
-        <p className="text-sm text-muted-foreground">
-          Stories and author features from the Prerna library blog
+        <p className="text-sm text-muted-foreground mt-1">
+          The library's public blog — readers can browse articles, book recommendations, and updates posted by the library team.
         </p>
       </div>
 

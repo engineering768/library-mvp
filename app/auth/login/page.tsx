@@ -48,8 +48,8 @@ function LoginForm() {
           <BookOpen className="size-6 text-primary" />
         </div>
         <CardTitle className="text-xl">BookBerry Admin</CardTitle>
-        <p className="text-sm text-muted-foreground">
-          Sign in to manage your library
+        <p className="text-sm text-muted-foreground mt-1">
+          Sign in to access the admin dashboard and manage your library's catalogue, members, and daily operations.
         </p>
       </CardHeader>
       <CardContent>

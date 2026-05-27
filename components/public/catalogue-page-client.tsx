@@ -52,8 +52,8 @@ export function CataloguePageClient() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Book Catalogue</h1>
-        <p className="text-sm text-muted-foreground">
-          Browse our collection — borrow at the library or join the waitlist
+        <p className="text-sm text-muted-foreground mt-1">
+          Open to everyone — visitors can search and browse the full book collection and see which titles are currently available to borrow, no login needed.
         </p>
       </div>
 

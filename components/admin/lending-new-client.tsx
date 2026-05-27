@@ -125,7 +125,7 @@ export function LendingNewClient() {
     <div className="mx-auto max-w-2xl space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">New Lending</h1>
-        <p className="text-sm text-muted-foreground">Fast borrow — member + book</p>
+        <p className="text-sm text-muted-foreground mt-1">Issuing books to a member — search for the member, select the books, and confirm. Their borrowing quota updates automatically and the due date is set based on their plan.</p>
       </div>
 
       <form onSubmit={handleSubmit} className="space-y-6">

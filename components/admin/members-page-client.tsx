@@ -47,7 +47,7 @@ export function MembersPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Members</h1>
-          <p className="text-sm text-muted-foreground">Paid and free library members</p>
+          <p className="text-sm text-muted-foreground mt-1">All registered members in one place — view their active borrows, check membership status, print ID cards, and quickly spot overdue or suspended accounts.</p>
         </div>
         <LinkButton href="/admin/members/new">
           <Plus className="size-4" />

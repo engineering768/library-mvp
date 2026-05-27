@@ -53,8 +53,8 @@ export function ImportPageClient() {
     <div className="mx-auto max-w-2xl space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Import Books</h1>
-        <p className="text-sm text-muted-foreground">
-          Upload a CSV file. Duplicate title+author rows are skipped automatically.
+        <p className="text-sm text-muted-foreground mt-1">
+          Adding a large batch of books? Upload a CSV file to add them all at once instead of entering each one manually. A BBID label is automatically generated for every new book.
         </p>
       </div>
 

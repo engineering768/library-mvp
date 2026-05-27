@@ -27,8 +27,8 @@ export function EventsPageClient() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Upcoming Events</h1>
-        <p className="text-sm text-muted-foreground">
-          Story sessions, workshops, and library gatherings
+        <p className="text-sm text-muted-foreground mt-1">
+          All upcoming library events in one place — visitors can see what's on and find out how to join a reading camp, workshop, or community activity.
         </p>
       </div>
 

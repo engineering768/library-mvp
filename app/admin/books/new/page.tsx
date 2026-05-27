@@ -11,8 +11,8 @@ export default function NewBookPage() {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Add Book</h1>
-        <p className="text-sm text-muted-foreground">
-          BBID will be generated automatically on save.
+        <p className="text-sm text-muted-foreground mt-1">
+          Fill in the book's details to add it to the catalogue — a unique BBID label is generated automatically once saved.
         </p>
       </div>
       <BookForm mode="create" />

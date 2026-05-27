@@ -43,7 +43,7 @@ export function SchoolsPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Schools</h1>
-          <p className="text-sm text-muted-foreground">Municipal and private partner schools</p>
+          <p className="text-sm text-muted-foreground mt-1">All partner schools listed here — add a new school, view their contact info, and see every reading session they've run along with its current status.</p>
         </div>
         <LinkButton href="/admin/schools/new">
           <Plus className="size-4" />

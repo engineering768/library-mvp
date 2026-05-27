@@ -72,7 +72,7 @@ export function BooksPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Books</h1>
-          <p className="text-sm text-muted-foreground">Manage your catalog and BBIDs</p>
+          <p className="text-sm text-muted-foreground mt-1">The full library catalogue — add new books, edit details, print BBID labels, and see at a glance which books are available, issued, or missing.</p>
         </div>
         <div className="flex flex-wrap gap-2">
           <LinkButton href="/admin/books/locate" variant="outline">

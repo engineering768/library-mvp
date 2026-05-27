@@ -74,7 +74,7 @@ export function DashboardClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Dashboard</h1>
-          <p className="text-sm text-muted-foreground">Visual overview — charts first, details on click</p>
+          <p className="text-sm text-muted-foreground mt-1">Your daily command centre — see how many members are active, which sessions are running today, which books are overdue, and what needs your attention right now.</p>
         </div>
         <div className="flex flex-wrap gap-2">
           <LinkButton href="/admin/lending/new" size="sm">

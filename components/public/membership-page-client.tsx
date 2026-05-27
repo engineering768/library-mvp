@@ -30,8 +30,8 @@ export function MembershipPageClient() {
     <div className="space-y-8 pb-8">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Membership Plans</h1>
-        <p className="mt-1 text-muted-foreground">
-          Borrow books home from the Prerna library. Choose a plan that fits your family.
+        <p className="text-sm text-muted-foreground mt-1">
+          Shows prospective members the available plans — what each plan allows, how many books they can borrow at once, and how to sign up.
         </p>
       </div>
 

@@ -60,7 +60,7 @@ export function LendingPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Lending</h1>
-          <p className="text-sm text-muted-foreground">Member book borrow and returns</p>
+          <p className="text-sm text-muted-foreground mt-1">Issue books to members, record returns, and keep track of who has what. Overdue items and lending limits are automatically flagged so nothing slips through.</p>
         </div>
         <LinkButton href="/admin/lending/new">
           <Plus className="size-4" />

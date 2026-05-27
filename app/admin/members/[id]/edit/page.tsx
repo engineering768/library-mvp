@@ -26,7 +26,7 @@ export default async function EditMemberPage({ params }: PageProps) {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Edit Member</h1>
-        <p className="text-sm text-muted-foreground">{member.name}</p>
+        <p className="text-sm text-muted-foreground mt-1">Update this member's personal information, membership plan, or account status. Editing: {member.name}</p>
       </div>
       <MemberForm member={member} mode="edit" />
     </div>

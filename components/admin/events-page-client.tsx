@@ -49,7 +49,7 @@ export function EventsPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Events</h1>
-          <p className="text-sm text-muted-foreground">Manage library events and RSVPs</p>
+          <p className="text-sm text-muted-foreground mt-1">Create and manage library events like reading camps and workshops — set the date, location, and details, then publish them to the public website for members to discover.</p>
         </div>
         <LinkButton href="/admin/events/new">
           <Plus className="size-4" />

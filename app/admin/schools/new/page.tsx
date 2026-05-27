@@ -11,7 +11,7 @@ export default function NewSchoolPage() {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Add School</h1>
-        <p className="text-sm text-muted-foreground">School ID will be generated automatically.</p>
+        <p className="text-sm text-muted-foreground mt-1">Adding a partner school — once registered, you can create reading sessions for them and track all books sent to and returned from that school.</p>
       </div>
       <SchoolForm mode="create" />
     </div>

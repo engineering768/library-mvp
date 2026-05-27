@@ -1,0 +1,810 @@
+{
+  "C:\\Library MVP\\bookberry\\eslint.config.mjs": {
+    "mtime": 1779821263.3991647,
+    "hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "C:\\Library MVP\\bookberry\\middleware.ts": {
+    "mtime": 1779828244.005186,
+    "hash": "e05e222436843072b10d8ce67ad1872e"
+  },
+  "C:\\Library MVP\\bookberry\\next-env.d.ts": {
+    "mtime": 1779828208.6623979,
+    "hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "C:\\Library MVP\\bookberry\\next.config.ts": {
+    "mtime": 1779821263.554314,
+    "hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "C:\\Library MVP\\bookberry\\postcss.config.mjs": {
+    "mtime": 1779821263.4396825,
+    "hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\layout.tsx": {
+    "mtime": 1779821596.1393583,
+    "hash": "fa54e569692fedb0f8baf589f79a2616"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\layout.tsx": {
+    "mtime": 1779825991.23428,
+    "hash": "ebb1b84910db5ffa6f27ceb3de499950"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\page.tsx": {
+    "mtime": 1779828242.941424,
+    "hash": "a313d0f9a75bcb65ab3431a5147a69b4"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\blogs\\page.tsx": {
+    "mtime": 1779826000.697064,
+    "hash": "025b9a398e9c8163fb46e80d4e982cd2"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\blogs\\[slug]\\page.tsx": {
+    "mtime": 1779826001.2965305,
+    "hash": "ac2f2ec889ddc5c24fe8ceb3a7da37c5"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\catalogue\\page.tsx": {
+    "mtime": 1779826000.121936,
+    "hash": "46f5280f1ea15ab9b9c263d6a93a9819"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\catalogue\\[id]\\page.tsx": {
+    "mtime": 1779826000.4011762,
+    "hash": "41595df29c332ba2d4a7de16229ebf57"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\events\\page.tsx": {
+    "mtime": 1779826002.0486567,
+    "hash": "74850b814d22fc84c30e0cc962ee6172"
+  },
+  "C:\\Library MVP\\bookberry\\app\\(public)\\membership\\page.tsx": {
+    "mtime": 1779825992.6990185,
+    "hash": "e78fdfcee5fc834e831d21543d50790c"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\layout.tsx": {
+    "mtime": 1779826005.2757478,
+    "hash": "f8f47572fd825b1be986788d224b140b"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\page.tsx": {
+    "mtime": 1779828242.939409,
+    "hash": "e189ad2a98061ad50cb1107700b8b5f1"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\blogs\\page.tsx": {
+    "mtime": 1779824822.033654,
+    "hash": "855d53555e0ee4b426c35e0758d40827"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\blogs\\new\\page.tsx": {
+    "mtime": 1779824823.5200267,
+    "hash": "0e5888b055b399fb6d348396ebbdeaf3"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\blogs\\[id]\\edit\\page.tsx": {
+    "mtime": 1779824824.3232625,
+    "hash": "e15befeeaa9fbd8b3dce453ba929f5b9"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\page.tsx": {
+    "mtime": 1779821582.5033338,
+    "hash": "8f003efb7131ff67e34f346c66c87586"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\import\\page.tsx": {
+    "mtime": 1779821583.2458923,
+    "hash": "751921b92f7417c03fc817e46f9d83cc"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\locate\\page.tsx": {
+    "mtime": 1779822538.5698562,
+    "hash": "d62912262f14bb798ba4444dbeb1af9d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\new\\page.tsx": {
+    "mtime": 1779821668.2652197,
+    "hash": "3cd85d910e1e0d03deb0c87c1db40634"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\[id]\\page.tsx": {
+    "mtime": 1779824283.0276382,
+    "hash": "33b1db38899ba7af6f85bdf882efe978"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\[id]\\edit\\page.tsx": {
+    "mtime": 1779821669.1523511,
+    "hash": "62097d21d7b05cfedf533cd629e793fd"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\books\\[id]\\label\\page.tsx": {
+    "mtime": 1779821587.788562,
+    "hash": "f0b5160b70ea2e67bca1a36a77b9177f"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\dashboard\\page.tsx": {
+    "mtime": 1779821582.3834286,
+    "hash": "5f8039b106438046b9cd91c8adff2aea"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\events\\page.tsx": {
+    "mtime": 1779824825.2514367,
+    "hash": "34ca73a983ae821affbaf96752bd92f5"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\events\\new\\page.tsx": {
+    "mtime": 1779824826.1551197,
+    "hash": "e3eebc7eab9997abd833a220231c6db9"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\events\\[id]\\page.tsx": {
+    "mtime": 1779824827.4522727,
+    "hash": "3c7294cea372bff52ecc3242762d6e15"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\lending\\page.tsx": {
+    "mtime": 1779823442.0802667,
+    "hash": "eb5f66ade274db8a8d09f4045a804778"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\lending\\new\\page.tsx": {
+    "mtime": 1779823442.2259722,
+    "hash": "7fabb76bc0821440814de799427ed6b0"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\lending\\[id]\\return\\page.tsx": {
+    "mtime": 1779823442.4253962,
+    "hash": "501a9a123557624705c47fd3fe05b69a"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\members\\page.tsx": {
+    "mtime": 1779823439.409828,
+    "hash": "eac3e96f03f74fc40db186d3cbedd11a"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\members\\new\\page.tsx": {
+    "mtime": 1779823439.6907845,
+    "hash": "60b58f0b7892081883fbfd6a43319e7e"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\members\\[id]\\page.tsx": {
+    "mtime": 1779823439.8180554,
+    "hash": "9934202f8a44265ce58b8ecd3466f04d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\members\\[id]\\card\\page.tsx": {
+    "mtime": 1779823442.0526168,
+    "hash": "c406e7d77f49f9b1dfa863c5cf7ee47d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\members\\[id]\\edit\\page.tsx": {
+    "mtime": 1779823441.5577538,
+    "hash": "8f9ff6cb6fbabd62df578209a914e669"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\plans\\page.tsx": {
+    "mtime": 1779824828.604338,
+    "hash": "e210fc5b0f1828785fdd4bf49d6c5e36"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\schools\\page.tsx": {
+    "mtime": 1779822532.6306186,
+    "hash": "a759657c0094bd1f922c23c192fe0e3e"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\schools\\new\\page.tsx": {
+    "mtime": 1779822533.2549698,
+    "hash": "9c00e526668e25426c2274510877030d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\schools\\[id]\\page.tsx": {
+    "mtime": 1779822536.5091572,
+    "hash": "c9cfcb3c18b800fa20593b773b9034c7"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\sessions\\page.tsx": {
+    "mtime": 1779822536.6578555,
+    "hash": "013694494d7b65aad7596258c3ee63b4"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\sessions\\new\\page.tsx": {
+    "mtime": 1779822537.2448823,
+    "hash": "33e84109b7e4010f7d18fb01c8c992b9"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\sessions\\[id]\\page.tsx": {
+    "mtime": 1779822538.201063,
+    "hash": "3fd9ac504ac727f6388aa04b154cbf4d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\admin\\sessions\\[id]\\sheet\\page.tsx": {
+    "mtime": 1779822538.5138817,
+    "hash": "50226a505407920c87a13baf4a823ddf"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\admin\\overview\\route.ts": {
+    "mtime": 1779824763.5665867,
+    "hash": "1b01a2249313e5aa6f02d7714046015d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\auth\\logout\\route.ts": {
+    "mtime": 1779821599.0458653,
+    "hash": "56f030645c9014232c9f944057277292"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\blogs\\route.ts": {
+    "mtime": 1779824753.7656574,
+    "hash": "f795d1b7e70d777e8c3793eb96913de4"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\blogs\\[id]\\route.ts": {
+    "mtime": 1779824754.9817426,
+    "hash": "d505fd01aeab1d46c35654dc244232ea"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\blogs\\[id]\\publish\\route.ts": {
+    "mtime": 1779824755.9446404,
+    "hash": "992c44972bd046b78becf6b8837b28bc"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\route.ts": {
+    "mtime": 1779821549.8640761,
+    "hash": "d265aa668ea983eabd76457ba4a2c200"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\export\\route.ts": {
+    "mtime": 1779824283.5385344,
+    "hash": "823201e551e183013fe837e36b831efb"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\import\\route.ts": {
+    "mtime": 1779824273.584395,
+    "hash": "4fbd210777eb22506eac937fc9ed649c"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\search-location\\route.ts": {
+    "mtime": 1779822488.121941,
+    "hash": "67eb3a12645199a5a407fb5ee776e447"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\[id]\\route.ts": {
+    "mtime": 1779821551.031406,
+    "hash": "150f1e62e1feed8a18420c9c44fabf31"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\[id]\\label\\route.ts": {
+    "mtime": 1779821556.4626868,
+    "hash": "a8b69a97fe1262466ac6fc3a61f3f573"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\books\\[id]\\location\\route.ts": {
+    "mtime": 1779822486.9947114,
+    "hash": "51efad3df24546aae57ca4cb253c62b5"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\dashboard\\stats\\route.ts": {
+    "mtime": 1779826697.7189536,
+    "hash": "4c6c1dc1d33108e7c2cfbd1b792718bb"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\events\\route.ts": {
+    "mtime": 1779824756.8075132,
+    "hash": "ba6f1fd4bdf9ef51b4cd5f14efe4a906"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\events\\[id]\\route.ts": {
+    "mtime": 1779824758.0969622,
+    "hash": "56270adaf10259199b9517adf6c5db7a"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\events\\[id]\\rsvps\\route.ts": {
+    "mtime": 1779824758.102963,
+    "hash": "025a73f3e5b8495c531ae7e3a52dcec6"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\lending\\route.ts": {
+    "mtime": 1779823391.141745,
+    "hash": "f12f785bd84b6f9f15be262b8684f5f7"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\lending\\overdue\\route.ts": {
+    "mtime": 1779823393.686152,
+    "hash": "b3859bbda0d6c4b22b8c9f1f2d3b8a32"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\lending\\[id]\\route.ts": {
+    "mtime": 1779823391.7368498,
+    "hash": "1d1114b423ce0bfe82e0ee968b429c6e"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\lending\\[id]\\lost\\route.ts": {
+    "mtime": 1779823393.4619946,
+    "hash": "4552bff6d4d5d800a92e183c3819fe5d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\lending\\[id]\\return\\route.ts": {
+    "mtime": 1779823392.7297802,
+    "hash": "54191b5661ab06d43376a5d0f95fbc0b"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\members\\route.ts": {
+    "mtime": 1779823388.1272945,
+    "hash": "c2330311c56849ec12feea0e5b10f2f8"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\members\\[id]\\route.ts": {
+    "mtime": 1779823389.403082,
+    "hash": "30e315f97bf935e140b8c2346d6fba86"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\members\\[id]\\card\\route.ts": {
+    "mtime": 1779823389.9836006,
+    "hash": "6971fdb3b4d2b8a8f47d83602bf07701"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\payment\\order\\route.ts": {
+    "mtime": 1779824761.422257,
+    "hash": "f3d42f458946154285e4f0c8131d4d45"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\plans\\route.ts": {
+    "mtime": 1779824815.0394676,
+    "hash": "a29f68667ba61e1eea64b83332781060"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\plans\\[id]\\route.ts": {
+    "mtime": 1779824759.7165885,
+    "hash": "21adb20fcc0454f6288d52fa3661fd8a"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\plans\\[id]\\invite\\route.ts": {
+    "mtime": 1779824761.0620706,
+    "hash": "6b3d4702f9d1957a9d5ba06f9fc2d9c9"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\blogs\\route.ts": {
+    "mtime": 1779824749.5753837,
+    "hash": "c19e8f2865043284831ff7c5a3cfea90"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\blogs\\[slug]\\route.ts": {
+    "mtime": 1779825291.7164974,
+    "hash": "c313aa68945114d28fa005fc99198242"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\books\\route.ts": {
+    "mtime": 1779824747.0577648,
+    "hash": "9cf345e07d5fe36d349524f7f675d5bd"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\books\\[id]\\route.ts": {
+    "mtime": 1779824747.7521417,
+    "hash": "bcab4de6d22d11eb98ab6dd7e0345a7b"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\events\\route.ts": {
+    "mtime": 1779824749.698151,
+    "hash": "4cea2e3b833f8962a695c9316e025834"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\events\\[id]\\rsvp\\route.ts": {
+    "mtime": 1779824750.4309182,
+    "hash": "670c90827e7ca187f2a29626bc3a98e5"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\plans\\route.ts": {
+    "mtime": 1779825972.4521594,
+    "hash": "a7ac4332a0061e114be32c372424a06d"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\public\\waitlist\\route.ts": {
+    "mtime": 1779824749.0091186,
+    "hash": "a1fa24a1a148b6414b47fb4e764aaa06"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\schools\\route.ts": {
+    "mtime": 1779822473.7521167,
+    "hash": "94e9974ac8d8b108e1319742114dba31"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\schools\\[id]\\route.ts": {
+    "mtime": 1779822476.3425658,
+    "hash": "23f2076d15bbc07aef4bce560eb18e13"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\route.ts": {
+    "mtime": 1779822478.32401,
+    "hash": "f24990f9271f9f0ff96be3603ace1a38"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\[id]\\route.ts": {
+    "mtime": 1779822480.7711058,
+    "hash": "76f1fbbac6845148eea24907372dbf03"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\[id]\\activate\\route.ts": {
+    "mtime": 1779822481.7383635,
+    "hash": "6152339d7351d9faf223ddeb2d6682e9"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\[id]\\close\\route.ts": {
+    "mtime": 1779822483.6074123,
+    "hash": "c5e4e1a263b5eae3e5898e37b63ee927"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\[id]\\return-book\\route.ts": {
+    "mtime": 1779822482.7532918,
+    "hash": "6f099c1bb76c4b87b182630aa6db9074"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\sessions\\[id]\\sheet\\route.ts": {
+    "mtime": 1779822485.9836786,
+    "hash": "7f0e70847af7d521d9c4df29139954b8"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\waitlist\\route.ts": {
+    "mtime": 1779823394.8300674,
+    "hash": "8760110e97d74d3afa84482b1860cf9b"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\waitlist\\[id]\\route.ts": {
+    "mtime": 1779823395.1257355,
+    "hash": "9d3779fca9c89240492e71553fe436ac"
+  },
+  "C:\\Library MVP\\bookberry\\app\\api\\webhooks\\razorpay\\route.ts": {
+    "mtime": 1779824763.1378088,
+    "hash": "9c4ad29c10c004f6c55dfdc13894cdab"
+  },
+  "C:\\Library MVP\\bookberry\\app\\auth\\login\\page.tsx": {
+    "mtime": 1779821594.3197997,
+    "hash": "933ca1c0a7cb7970d5a035cdabc9a4d7"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\admin-top-bar.tsx": {
+    "mtime": 1779826008.6334243,
+    "hash": "0b7813df17c01e228e9e7345ae48c215"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\blog-form.tsx": {
+    "mtime": 1779825298.72299,
+    "hash": "b27b7dd14588589ae3b30bc63938f1b0"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\blogs-page-client.tsx": {
+    "mtime": 1779825323.2421563,
+    "hash": "66a1ad0eafff3d254e7322bb51d89219"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\book-form.tsx": {
+    "mtime": 1779821595.2172694,
+    "hash": "6d71cdb5cb11210e6b442bdc41821afa"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\book-locate-client.tsx": {
+    "mtime": 1779823442.7381797,
+    "hash": "af2a298356aef6b4ba305910e95cd88e"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\books-page-client.tsx": {
+    "mtime": 1779822585.2375243,
+    "hash": "793ed40c51be7e401bc1c4fa975b32dc"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\dashboard-charts.tsx": {
+    "mtime": 1779826719.2056212,
+    "hash": "c4ae14a4b97aacfd01697fa7c9a4c6c5"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\dashboard-client.tsx": {
+    "mtime": 1779826713.8908267,
+    "hash": "2468153ab921832bcfa12d4c79d6aa5a"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\event-detail-client.tsx": {
+    "mtime": 1779824817.529164,
+    "hash": "fb42da9aea91c3eef4b64cb807587f92"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\event-form.tsx": {
+    "mtime": 1779824802.4762516,
+    "hash": "6debacc56b44670e5cf87fd28b3bb696"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\events-page-client.tsx": {
+    "mtime": 1779824798.9476604,
+    "hash": "0fcc6bbf049391c213bbbd6b8edff48d"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\import-page-client.tsx": {
+    "mtime": 1779824283.8133607,
+    "hash": "21263d66dcf16eb3525642e4e81e46be"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\lending-new-client.tsx": {
+    "mtime": 1779823442.6274574,
+    "hash": "9a21d00d42f0afa6d5b57643bea0af76"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\lending-page-client.tsx": {
+    "mtime": 1779823456.6741173,
+    "hash": "8fea5054794d986811b1016cd69b7089"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\lending-return-client.tsx": {
+    "mtime": 1779823435.3864157,
+    "hash": "6066a2da11da6d3ac21696f95a8f0006"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\lending-status-badge.tsx": {
+    "mtime": 1779823400.79463,
+    "hash": "84942639a89892c705c539fee18c3f04"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\member-detail-client.tsx": {
+    "mtime": 1779823500.6647599,
+    "hash": "3f451334550e6c4d39ae38ecae6cc9e2"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\member-form.tsx": {
+    "mtime": 1779823410.9111466,
+    "hash": "14ba7fa3be2de6f2f833c60b5ed491d9"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\member-status-badge.tsx": {
+    "mtime": 1779823400.237062,
+    "hash": "436a7a294ae1f923a0cd2d9b5ec3fa0c"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\members-page-client.tsx": {
+    "mtime": 1779823404.8608098,
+    "hash": "03266f33830e716b0c0767b624105ec9"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\mobile-nav.tsx": {
+    "mtime": 1779822613.869723,
+    "hash": "c42c966d9503aed7fc079c27c0481b0c"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\plans-page-client.tsx": {
+    "mtime": 1779824815.6269844,
+    "hash": "b8daef55d7997c83caf0ccbd750575db"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\school-form.tsx": {
+    "mtime": 1779822505.066987,
+    "hash": "77f5ed217c58b2f2b3e2cc66e8d99081"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\schools-page-client.tsx": {
+    "mtime": 1779822500.2880661,
+    "hash": "55151aadb18bfabd1f18d60fc22cb6e8"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\session-detail-client.tsx": {
+    "mtime": 1779822551.9094782,
+    "hash": "a5f3bdee2ab7c9cd24b0a87a312b43b2"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\session-new-client.tsx": {
+    "mtime": 1779822520.2387638,
+    "hash": "5a8151b3114f2ef8184b1ee7bd018011"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\session-status-badge.tsx": {
+    "mtime": 1779822495.4230475,
+    "hash": "db0da5c521054df8dbc910e78e67fc05"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\sessions-page-client.tsx": {
+    "mtime": 1779822509.25074,
+    "hash": "bb0e1a7d063ccf38fdb3df407ddff983"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\sidebar.tsx": {
+    "mtime": 1779826005.2987568,
+    "hash": "5ea8d310e6ed07e569b88b40311a92af"
+  },
+  "C:\\Library MVP\\bookberry\\components\\admin\\status-badge.tsx": {
+    "mtime": 1779821563.1064086,
+    "hash": "db6ada3ffc2b21623eeed88b33225f48"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\blog-detail-client.tsx": {
+    "mtime": 1779825294.6705916,
+    "hash": "7f0fca1e2d87a5f3971a6d36fd719a3e"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\blogs-page-client.tsx": {
+    "mtime": 1779825297.630205,
+    "hash": "cb6ba6e8f261385bc63ab59abd6d7abf"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\book-detail-client.tsx": {
+    "mtime": 1779824844.5380976,
+    "hash": "e072348af460f9d9460d9061671c8373"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\catalogue-page-client.tsx": {
+    "mtime": 1779824778.308972,
+    "hash": "913707be05881e311dab0f197add28cb"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\events-page-client.tsx": {
+    "mtime": 1779824786.7997832,
+    "hash": "4f8aade112b42b7894fc63418f3bfe21"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\membership-page-client.tsx": {
+    "mtime": 1779825984.7259862,
+    "hash": "20a91457e781065b49807fb13bfed2c2"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\public-footer.tsx": {
+    "mtime": 1779825986.814992,
+    "hash": "8cc2721bde51e6bcd86c9e4bc09d931e"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\public-header.tsx": {
+    "mtime": 1779825990.5610564,
+    "hash": "e5e43409283ba6c9e0213e2f3bd62271"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\public-home-client.tsx": {
+    "mtime": 1779825980.9322026,
+    "hash": "4f829274a0e94b5803a0723f7eab8706"
+  },
+  "C:\\Library MVP\\bookberry\\components\\public\\public-preview-bar.tsx": {
+    "mtime": 1779825985.9086337,
+    "hash": "a0e24dce1500806a7b5175082a705442"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\badge.tsx": {
+    "mtime": 1779821524.1114442,
+    "hash": "e4ec840217040d5630ee6ed7213a1d72"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\button.tsx": {
+    "mtime": 1779821496.4063292,
+    "hash": "705bf3552a39e0c722665ccbecb30654"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\card.tsx": {
+    "mtime": 1779821523.2199209,
+    "hash": "77a10bd948ca424972a28e704a3df604"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\checkbox.tsx": {
+    "mtime": 1779821524.4794774,
+    "hash": "b2348d074d43a3597b5622982f1978b6"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\dialog.tsx": {
+    "mtime": 1779821525.619456,
+    "hash": "d9618a63d34473ec512321cc12d43692"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\input.tsx": {
+    "mtime": 1779821523.432993,
+    "hash": "0607b02d99a2e92f9509223f36ccc6ec"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\label.tsx": {
+    "mtime": 1779821523.6038172,
+    "hash": "a70440da86bfc6a07f15197cca48cb08"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\link-button.tsx": {
+    "mtime": 1779821665.9626932,
+    "hash": "ac5f59439aa2f49c8390750d83a33b63"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\select.tsx": {
+    "mtime": 1779821523.9220734,
+    "hash": "ab95f478cb74d1906b07425c15b124cc"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\separator.tsx": {
+    "mtime": 1779821524.9004273,
+    "hash": "3de2dca3e47ab29c4b1f632671545628"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\sheet.tsx": {
+    "mtime": 1779821525.4332101,
+    "hash": "43ad8bec991f7a28d2aa22d4f374e6b7"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\skeleton.tsx": {
+    "mtime": 1779821524.765669,
+    "hash": "0e6e825c43d858d98c9903f4da975382"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\table.tsx": {
+    "mtime": 1779821524.3097262,
+    "hash": "44f87727e60080863edb00fdd2fcd8da"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\tabs.tsx": {
+    "mtime": 1779821525.0272484,
+    "hash": "429035bc858475cd3bcedbb08a5ba8da"
+  },
+  "C:\\Library MVP\\bookberry\\components\\ui\\textarea.tsx": {
+    "mtime": 1779821524.6203403,
+    "hash": "d448d2a90e48542e51b93a1189127bf2"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\api-auth.ts": {
+    "mtime": 1779821541.6754713,
+    "hash": "8899a06eba5bc356f4ebc2e7c28662bb"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils.ts": {
+    "mtime": 1779821496.7658086,
+    "hash": "5a6fd53fdcf2be529e9cc0b718fde352"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\csv\\book-upload-map.ts": {
+    "mtime": 1779824264.4980667,
+    "hash": "41343ec20a79fdb1dfc4a96742fa14e5"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\admin-overview.ts": {
+    "mtime": 1779824746.3820655,
+    "hash": "d1859ff0e9ac3525653f3f79281ec31a"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\blogs.ts": {
+    "mtime": 1779825299.2863286,
+    "hash": "11fdeb9ec5aaf54540df95a55b84f234"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\books.ts": {
+    "mtime": 1779824899.94137,
+    "hash": "b6be471e3b6acbc4c22f908e6dc2f55b"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\dashboard-charts.ts": {
+    "mtime": 1779826687.579661,
+    "hash": "589e40a92b8d187d1495b990c7480162"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\events.ts": {
+    "mtime": 1779824674.5245051,
+    "hash": "7a75cd625095d64e059e64e4be9afc8f"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\lending.ts": {
+    "mtime": 1779823380.9038866,
+    "hash": "cbced2a96653eb4b7b7352285716640f"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\members.ts": {
+    "mtime": 1779823374.7142231,
+    "hash": "1b996af74749f753d9b052ed0c34c4af"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\payments.ts": {
+    "mtime": 1779824682.84911,
+    "hash": "b946b9454bc0c7ab511b7031b38fd0cc"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\plans.ts": {
+    "mtime": 1779824745.9713328,
+    "hash": "2a33c7598b7405c84dafef8275da7e9c"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\public-books.ts": {
+    "mtime": 1779824664.3865044,
+    "hash": "41efe5ff27610ec09159fa4dcc583fac"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\schools.ts": {
+    "mtime": 1779822454.9495673,
+    "hash": "2e08a503b3fae50cf48eab8012ebb80b"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\services\\sessions.ts": {
+    "mtime": 1779823384.4029622,
+    "hash": "5242e09050700d52e47c04d6eb3933eb"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\supabase\\admin.ts": {
+    "mtime": 1779821539.9495652,
+    "hash": "2c8717930ae65f5d2c8aeb6825ee0ec6"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\supabase\\client.ts": {
+    "mtime": 1779821539.1405869,
+    "hash": "5453d99289cf630306e5030428c0fc33"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\supabase\\public.ts": {
+    "mtime": 1779824657.538934,
+    "hash": "e57f032a336e311f4a3f7cd42ae86ef1"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\supabase\\server.ts": {
+    "mtime": 1779821539.546149,
+    "hash": "1ac281dd4f25d71545e830ef0b99884a"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\supabase\\types.ts": {
+    "mtime": 1779825287.8568096,
+    "hash": "dc6096eb0a3bb58692083f910b2a0608"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\bbid.ts": {
+    "mtime": 1779821540.326971,
+    "hash": "ce88650760f05087530270f7308b360a"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\date.ts": {
+    "mtime": 1779823361.2692935,
+    "hash": "371fe94688e04a151d09c51720d008b1"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\lending-id.ts": {
+    "mtime": 1779823362.0988934,
+    "hash": "4565eb0261f827151cfd09fe7fb4f518"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\member-id.ts": {
+    "mtime": 1779823361.818624,
+    "hash": "f7720d28ed438fb4355064615eed8be6"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\school-id.ts": {
+    "mtime": 1779822447.669907,
+    "hash": "482789ff9c96024cf5872cde2af47d9a"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\session-id.ts": {
+    "mtime": 1779822448.4991937,
+    "hash": "8291ddadaa572c5cd3ae1a42c6748bce"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\utils\\slug.ts": {
+    "mtime": 1779824658.0391903,
+    "hash": "2cd20f327f9ac1446bf9e37300ded6a6"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\book.ts": {
+    "mtime": 1779824265.3050158,
+    "hash": "1ffaaf327d16c425f294ce2c68cc65e2"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\lending.ts": {
+    "mtime": 1779823363.4337275,
+    "hash": "f6aeff688ea9a4c579162b3f1a1545c9"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\member.ts": {
+    "mtime": 1779823362.7124672,
+    "hash": "2cff9b4daf2b2a677d07d5c74a75e77b"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\phase3.ts": {
+    "mtime": 1779825287.897799,
+    "hash": "fdf2e95a5d1151ebcfa401e52a8affae"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\school.ts": {
+    "mtime": 1779822449.1103377,
+    "hash": "ce357ff42f760d68265a5638d168e8cb"
+  },
+  "C:\\Library MVP\\bookberry\\lib\\validations\\session.ts": {
+    "mtime": 1779822449.8631508,
+    "hash": "68826e54524c966e9bd2a7410f8101c8"
+  },
+  "C:\\Library MVP\\bookberry\\scripts\\read-docx.mjs": {
+    "mtime": 1779825235.3021066,
+    "hash": "dcb50a62fa8f37e20bbce1efcbf6dde4"
+  },
+  "C:\\Library MVP\\bookberry\\scripts\\seed-book-upload.mjs": {
+    "mtime": 1779824288.0187178,
+    "hash": "c2b3de7b20dc8aba63f418118a96e4f6"
+  },
+  "C:\\Library MVP\\bookberry\\scripts\\seed-demo-data.mjs": {
+    "mtime": 1779825789.4711857,
+    "hash": "6c26eafcc7c365bfa2817d0ff0951fce"
+  },
+  "C:\\Library MVP\\bookberry\\scripts\\seed-sample-blogs.mjs": {
+    "mtime": 1779825315.4117615,
+    "hash": "57c02fd056e7ab6106d75af1ce5c99cf"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\001_phase0.sql": {
+    "mtime": 1779821537.8137305,
+    "hash": "56ab516788694fcc9afec313b0b0427d"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\002_phase1.sql": {
+    "mtime": 1779822443.8362367,
+    "hash": "cdfaf119e6028d6f540431a0b117bbeb"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\003_phase2.sql": {
+    "mtime": 1779823360.0073817,
+    "hash": "058166c09589b2bdd48a2d60c3c68dbd"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\004_books_csv_columns.sql": {
+    "mtime": 1779824305.9791613,
+    "hash": "0561b097f2bccb0b6391ae708ee8bdc7"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\005_phase3.sql": {
+    "mtime": 1779824657.1010087,
+    "hash": "e96a5c3339fe83e871f43b119e39903a"
+  },
+  "C:\\Library MVP\\bookberry\\supabase\\migrations\\006_blog_content_and_samples.sql": {
+    "mtime": 1779825271.2682903,
+    "hash": "65baeb3e2e60ef04c2eb0b41065f2e9e"
+  },
+  "C:\\Library MVP\\bookberry\\AGENTS.md": {
+    "mtime": 1779821364.6700077,
+    "hash": "9e09241799026ac05be315a2f0b50055"
+  },
+  "C:\\Library MVP\\bookberry\\CLAUDE.md": {
+    "mtime": 1779821364.6710083,
+    "hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "C:\\Library MVP\\bookberry\\README.md": {
+    "mtime": 1779823453.281996,
+    "hash": "f2cccd222a40f19352d57ed269991ea2"
+  },
+  "C:\\Library MVP\\bookberry\\content\\blogs\\bhetayla-havit-ashi-pustake.txt": {
+    "mtime": 1779825366.3618078,
+    "hash": "9468f6a5bb47b2b66596777d3e364c1a"
+  },
+  "C:\\Library MVP\\bookberry\\content\\blogs\\brendan-wenzel-wizard-of-perspectives.txt": {
+    "mtime": 1779825262.1982584,
+    "hash": "bf4702841199d20f9dddb525a6a599fe"
+  },
+  "C:\\Library MVP\\bookberry\\public\\file.svg": {
+    "mtime": 1779821263.450685,
+    "hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "C:\\Library MVP\\bookberry\\public\\globe.svg": {
+    "mtime": 1779821263.4669967,
+    "hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "C:\\Library MVP\\bookberry\\public\\next.svg": {
+    "mtime": 1779821263.4857306,
+    "hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "C:\\Library MVP\\bookberry\\public\\vercel.svg": {
+    "mtime": 1779821263.5017877,
+    "hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "C:\\Library MVP\\bookberry\\public\\window.svg": {
+    "mtime": 1779821263.5167992,
+    "hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}

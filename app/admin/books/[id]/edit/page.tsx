@@ -26,7 +26,7 @@ export default async function EditBookPage({ params }: PageProps) {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Edit Book</h1>
-        <p className="text-sm text-muted-foreground">{book.title}</p>
+        <p className="text-sm text-muted-foreground mt-1">Update this book's details, availability status, or any other information in the catalogue. Editing: {book.title}</p>
       </div>
       <BookForm book={book} mode="edit" />
     </div>

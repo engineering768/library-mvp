@@ -71,7 +71,7 @@ export function LendingReturnClient({ lendingId }: LendingReturnClientProps) {
 
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Record Return</h1>
-        <p className="text-sm text-muted-foreground">{transaction.transaction_id}</p>
+        <p className="text-sm text-muted-foreground mt-1">Accepting books back? Mark them as returned here, note any damage if applicable, and the member's borrowing slot opens up automatically for their next borrow. ({transaction.transaction_id})</p>
       </div>
 
       <Card>

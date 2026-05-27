@@ -98,8 +98,11 @@ export function SessionNewClient() {
   return (
     <div className="mx-auto max-w-4xl space-y-4">
       <div>
-        <h1 className="text-2xl font-semibold tracking-tight">New Session</h1>
-        <p className="text-sm text-muted-foreground">Step {step} of 3</p>
+        <div className="flex items-center justify-between">
+          <h1 className="text-2xl font-semibold tracking-tight">New Session</h1>
+          <p className="text-sm text-muted-foreground">Step {step} of 3</p>
+        </div>
+        <p className="text-sm text-muted-foreground mt-1">Starting a school visit? Open a new session for the school, scan or select the books being sent out, and activate it — the system will track these books until they're returned.</p>
       </div>
 
       {step === 1 && (

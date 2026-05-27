@@ -11,6 +11,7 @@ export default function NewEventPage() {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">New Event</h1>
+        <p className="text-sm text-muted-foreground mt-1">Setting up a new event — add the title, date, time, and location so it appears on the public events page for members to see.</p>
       </div>
       <EventForm mode="create" />
     </div>

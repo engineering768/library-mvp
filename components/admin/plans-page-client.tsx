@@ -77,8 +77,8 @@ export function PlansPageClient() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Subscription Plans</h1>
-        <p className="text-sm text-muted-foreground">
-          Changes apply to new renewals only
+        <p className="text-sm text-muted-foreground mt-1">
+          Set up the membership tiers shown on your public page — define what each plan includes, how many books members can borrow, and the pricing for each tier. (Changes apply to new renewals only)
         </p>
       </div>
 

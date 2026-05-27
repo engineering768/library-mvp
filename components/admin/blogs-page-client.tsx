@@ -43,7 +43,7 @@ export function BlogsPageClient() {
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Blogs</h1>
-          <p className="text-sm text-muted-foreground">Link Prerna blog posts to books and authors</p>
+          <p className="text-sm text-muted-foreground mt-1">Write and publish posts that appear on the public website — reading guides, book recommendations, library updates, or community stories. Draft here, publish when ready.</p>
         </div>
         <LinkButton href="/admin/blogs/new">
           <Plus className="size-4" />

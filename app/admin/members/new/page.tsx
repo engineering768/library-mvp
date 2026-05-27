@@ -11,7 +11,7 @@ export default function NewMemberPage() {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Add Member</h1>
-        <p className="text-sm text-muted-foreground">Member ID will be generated automatically.</p>
+        <p className="text-sm text-muted-foreground mt-1">Registering a new member — fill in their details, choose their membership plan, and their unique member ID and printable ID card are generated automatically.</p>
       </div>
       <MemberForm mode="create" />
     </div>

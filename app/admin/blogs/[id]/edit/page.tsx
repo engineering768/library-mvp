@@ -26,6 +26,7 @@ export default async function EditBlogPage({ params }: PageProps) {
       </LinkButton>
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Edit Blog</h1>
+        <p className="text-sm text-muted-foreground mt-1">Update the content, images, or visibility of this blog post. Changes go live as soon as you save and publish.</p>
       </div>
       <BlogForm blog={blog} mode="edit" />
     </div>

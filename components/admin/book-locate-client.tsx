@@ -31,7 +31,7 @@ export function BookLocateClient() {
     <div className="mx-auto max-w-2xl space-y-6">
       <div>
         <h1 className="text-2xl font-semibold tracking-tight">Where is my book?</h1>
-        <p className="text-sm text-muted-foreground">Search by BBID or title</p>
+        <p className="text-sm text-muted-foreground mt-1">Can't find a book? Search by its BBID or title to instantly see if it's on the shelf, issued to a member, out in a school session, or marked missing.</p>
       </div>
 
       <form onSubmit={handleSearch} className="relative">
