@@ -7,7 +7,7 @@ export function AdminTopBar() {
   return (
     <div className="flex items-center justify-end border-b bg-background px-4 py-2 md:px-6">
       <LinkButton
-        href="/"
+        href="/catalogue"
         target="_blank"
         rel="noopener noreferrer"
         variant="outline"
